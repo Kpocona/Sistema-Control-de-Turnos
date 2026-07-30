@@ -1,1 +1,2 @@
 1234567890101|Admin Principal|admin|RRHH|MATUTINO|ADMIN_RRHH||admin@test.com|240be518fabd2724ddb6f04eeb1da5967448d7e831c08c8fa822809f74c720a9|ACTIVO
+1234567890102|Wendy Abigail Garcia Lopez|wendy|Ventas|MATUTINO|EMPLEADO|admin|wendy@test.com|ccc13e8ab0819e3ab61719de4071ecae6c1d3cd35dc48b91cad3481f20922f9f|ACTIVO
